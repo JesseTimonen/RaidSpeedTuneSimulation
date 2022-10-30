@@ -18,7 +18,7 @@ This Tool is seperated into few sections:
     * This file content is called every time the clan boss takes their turn in the simulation and it can be used to check is the speed tune is still valid or has it failed.
 
 4. Main loop file
-* This file specifies how the simulations should be ran.
+    * This file specifies how the simulations should be ran.
 
 5. Simulation file
-* This file does the actual simulation and it's logic.
+    * This file does the actual simulation and it's logic.
